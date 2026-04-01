@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-**Graduate**, Information & Communication Engineering, The University of Tokyo (Oct. 2025 - now)
+I'm receiving the master course in The University of Tokyo.
 
-**B.Eng.**, Electronic Information Engineering, Shanghai University (Sep. 2021 - Jul. 2025)
+Currently interested in SwiftUI and LLM.
 
-[![Yankai Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakura0224)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](./profile/stats.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakura0224)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](./profile/top-langs.svg)
