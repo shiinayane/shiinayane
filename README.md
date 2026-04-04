@@ -1,8 +1,14 @@
 ## Hi there 👋
 
-I'm receiving the master course in The University of Tokyo.
+I'm pursuing the master degree now in Japan.
 
-Currently interested in SwiftUI and LLM.
+Currently interested in SwiftUI and Robot.
+
+More information can refer to my website😊:
+
+[www.shiinayane.com](https://www.shiinayane.com)
+
+---
 
 ![Stats](./profile/stats.svg)
 
