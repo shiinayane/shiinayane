@@ -27,9 +27,9 @@ print(Yankai())
 
 ### Projects
 
-- [KotobaLab](https://github.com/shiinayane/KotobaLab) - A Japanese learning app for Apple platforms
+- [BiliKit-Mac](https://github.com/shiinayane/BiliKit-Mac) - A native macOS video client for Bilibili
 
-- [BiliKit-Mac](https://github.com/shiinayane/BiliKit-Mac) - A native macOS video client
+- [KotobaLab](https://github.com/shiinayane/KotobaLab) - A Japanese learning app for Apple platforms
 
 - [LabMate](https://github.com/shiinayane/LabMate) - Research on VLA models and human–robot collaboration
 
