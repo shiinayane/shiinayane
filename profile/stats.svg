@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Yankai Wang&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 108, Total Commits  (last year) : 1984, Total PRs: 436, Total Issues: 8, Contributed to (last year): 6</desc>
+        <desc id="descId">Total Stars Earned: 108, Total Commits  (last year) : 1989, Total PRs: 437, Total Issues: 9, Contributed to (last year): 6</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 60.53373210455367;
+        stroke-dashoffset: 60.070542383945;
       }
     }
   
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >436</text>
+      >437</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -214,7 +214,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >8</text>
+      >9</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
